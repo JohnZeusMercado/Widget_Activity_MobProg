@@ -1,1 +1,0 @@
-# Widget_Activity_MobProg
